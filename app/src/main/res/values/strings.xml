@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PagingDemo</string>
+    <string name="create">生成</string>
+    <string name="clear">清除</string>
+    <string name="loading">Loading…</string>
+
+</resources>
